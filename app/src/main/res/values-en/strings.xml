@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="job_post_activity">Post Job</string>
+    <string name="buttonPost">Post</string>
+    <string name="contact">Contact</string>
+    <string name="description">Description</string>
+    <string name="job_posted_success">Job Posted!</string>
+    <string name="job_posted_error">An error has ocurred! Try again later!</string>
+    <string name="number">Number:</string>
+    <string name="post_job">Post Job</string>
+    <string name="synchronize">Synchronize</string>
+    <string name="title">Title</string>
+</resources>

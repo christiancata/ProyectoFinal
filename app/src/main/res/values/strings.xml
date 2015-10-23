@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="job_post_activity">Postear Trabajo</string>
+    <string name="buttonPost">Postear</string>
+    <string name="contact">Contacto</string>
+    <string name="description">Descripción</string>
+    <string name="job_posted_success">Trabajo Posteado!</string>
+    <string name="job_posted_error">Error al postear el trabajo!</string>
+    <string name="number">Número:</string>
+    <string name="post_job">Postear Trabajo</string>
+    <string name="synchronize">Sincronizar</string>
+    <string name="title">Título</string>
+</resources>
