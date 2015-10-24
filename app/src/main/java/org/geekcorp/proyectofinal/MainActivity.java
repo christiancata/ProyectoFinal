@@ -56,6 +56,8 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
             }
         });
         getSupportLoaderManager().initLoader(JOBS_LOADER, null, this);
+        NetworkOperationAsyncTask asyncTask = new NetworkOperationAsyncTask();
+        asyncTask.execute();
     }
 
     @Override

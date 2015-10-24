@@ -46,12 +46,14 @@
         android:layout_width="fill_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:id="@+id/editTextContact"/>
+        android:id="@+id/editTextContact"
+        android:inputType="number"/>
 
     <Button
         android:layout_width="fill_parent"
         android:layout_height="0dp"
         android:layout_weight="1.5"
-        android:text="@string/buttonPost"/>
+        android:text="@string/buttonPost"
+        android:onClick="buttonPost_Click"/>
 
 </LinearLayout>
